@@ -1,4 +1,4 @@
-Person,Quest,Days to Complete,Quest Start Date,Quest Completion Date,Number of Shrubberies Utilized,Goal of Quest,Reward (GBP),Quest Difficulty,Quest Companion,Enemy Encountered,Sacrifices Made,Knights Lost,Proclamations Made,Number of Times Fleeing,Coconuts Utilized,Jokes Told,Injuries Sustained,Morale Level
+person,quest,days_to_complete,quest_start_date,quest_completion_date,number_of_shrubberies_utilized,goal_of_quest,reward_gbp,quest_difficulty,quest_companion,enemy_encountered,sacrifices_made,knights_lost,proclamations_made,number_of_times_fleeing,coconuts_utilized,jokes_told,injuries_sustained,morale_level
 Lancelot,The Rescue of Camelot,,,,1,Rescue Camelot from the invading forces.,3346,Hard,Tim the Enchanter,Castle Anthrax,Coconuts Lost,4,9,0,0,10,4,10
 Sir Robin,The Battle with the Black Knight,62.0,529-10-18,556-07-09,8,Defeat the Black Knight and continue the journey.,7274,Impossible,Coconuts,Castle Anthrax,A Few Good Knights,1,1,5,6,18,1,3
 Sir Robin,The Search for the Holy Hand Grenade,9.0,592-02-08,573-07-12,7,Locate the Holy Hand Grenade to defeat the Rabbit of Caerbannog.,1563,Impossible,A Swallow,Castle Anthrax,None,4,6,0,2,19,4,4
